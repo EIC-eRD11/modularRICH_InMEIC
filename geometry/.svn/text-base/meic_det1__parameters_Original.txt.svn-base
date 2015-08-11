@@ -1,0 +1,140 @@
+i_ds_dipole1_length		| 1                 | m   | ion downstream dipole 1 length        | - |  - | - | - | - | -
+i_ds_dipole1_innerhalfaperture	| 17                | cm  | ion downstream dipole 1 innerhalfaperture | - |  - | - | - | - | -
+i_ds_dipole1_outerhalfaperture	| 24                | cm  | ion downstream dipole 1 outerhalfaperture | - |  - | - | - | - | -
+i_ds_dipole1_strength		| 1.200030206       | T   | ion downstream dipole 1 strength      | - |  - | - | - | - | -
+i_ds_dipole1_X			|-0.2763824454      | m   | ion downstream dipole 1 X center      | - |  - | - | - | - | -
+i_ds_dipole1_Z			| 5.4930492705      | m   | ion downstream dipole 1 Z center      | - |  - | - | - | - | -
+i_ds_dipole1_Theta		| 0.		    | rad | ion downstream dipole 1 Theta center  | - |  - | - | - | - | -
+i_ds_dipole2_length		| 4                 | m   | ion downstream dipole 2 length        | - |  - | - | - | - | -
+i_ds_dipole2_innerhalfaperture	| 40                | cm  | ion downstream dipole 2 innerhalfaperture | - |  - | - | - | - | -
+i_ds_dipole2_outerhalfaperture	| 47                | cm  | ion downstream dipole 2 outerhalfaperture | - |  - | - | - | - | -
+i_ds_dipole2_strength		|-2.801738751       | T   | ion downstream dipole 2 strength      | - |  - | - | - | - | -
+i_ds_dipole2_X			|-1.0192580791      | m   | ion downstream dipole 2 X center      | - |  - | - | - | - | -
+i_ds_dipole2_Z			|19.77280729        | m   | ion downstream dipole 2 Z center      | - |  - | - | - | - | -
+i_ds_dipole2_Theta		| 0.                | rad | ion downstream dipole 2 Theta center  | - |  - | - | - | - | -
+i_ds_quad1_length		| 1.2               | m   | ion downstream quad   1 length        | - |  - | - | - | - | -
+i_ds_quad1_innerhalfaperture	| 10.1              | cm  | ion downstream quad   1 innerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad1_outerhalfaperture	| 17.1              | cm  | ion downstream quad   1 outerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad1_strength		|-52.78394396       | T/m | ion downstream quad   1 strength      | - |  - | - | - | - | -
+i_ds_quad1_X			|-0.3924158452      | m   | ion downstream quad   1 X center      | - |  - | - | - | - | -
+i_ds_quad1_Z			| 7.5898394505      | m   | ion downstream quad   1 Z center      | - |  - | - | - | - | -
+i_ds_quad1_Theta		|-0.05599600898     | rad | ion downstream quad   1 Theta center  | - |  - | - | - | - | -
+i_ds_quad2_length		| 2.4               | m   | ion downstream quad   2 length        | - |  - | - | - | - | -
+i_ds_quad2_innerhalfaperture	| 17.7              | cm  | ion downstream quad   2 innerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad2_outerhalfaperture	| 24.7              | cm  | ion downstream quad   2 outerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad2_strength		| 30.43809037       | T/m | ion downstream quad   2 strength      | - |  - | - | - | - | -
+i_ds_quad2_X			|-0.54912274655     | m   | ion downstream quad   2 X center      | - |  - | - | - | - | -
+i_ds_quad2_Z			| 10.385450822      | m   | ion downstream quad   2 Z center      | - |  - | - | - | - | -
+i_ds_quad2_Theta		|-0.05599600898     | rad | ion downstream quad   2 Theta center  | - |  - | - | - | - | -
+i_ds_quad3_length		| 1.2               | m   | ion downstream quad   3 length        | - |  - | - | - | - | -
+i_ds_quad3_innerhalfaperture	| 19.7              | cm  | ion downstream quad   3 innerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad3_outerhalfaperture	| 26.7              | cm  | ion downstream quad   3 outerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad3_strength		|-21.18674546       | T/m | ion downstream quad   3 strength      | - |  - | - | - | - | -
+i_ds_quad3_X			|-0.7058296479      | m   | ion downstream quad   3 X center      | - |  - | - | - | - | -
+i_ds_quad3_Z			| 13.1810622        | m   | ion downstream quad   3 Z center      | - |  - | - | - | - | -
+i_ds_quad3_Theta		| -0.05599600898    | rad | ion downstream quad   3 Theta center  | - |  - | - | - | - | -
+i_ds_quad4_length		| 0.8               | m   | ion downstream quad   4 length        | - |  - | - | - | - | -
+i_ds_quad4_innerhalfaperture	| 3                 | cm  | ion downstream quad   4 innerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad4_outerhalfaperture	| 10                | cm  | ion downstream quad   4 outerhalfaperture  | - |  - | - | - | - | -
+i_ds_quad4_strength		| 35.61172292       | T/m | ion downstream quad   4 strength      | - |  - | - | - | - | -
+i_ds_quad4_X			|-1.075239458       | m   | ion downstream quad   4 X center      | - |  - | - | - | - | -
+i_ds_quad4_Z			| 38.72176227       | m   | ion downstream quad   4 Z center      | - |  - | - | - | - | -
+i_ds_quad4_Theta		| 0                 | rad | ion downstream quad   4 Theta center  | - |  - | - | - | - | -
+i_us_quad1_length		| 1.2               | m   | ion upstream   quad   1 length        | - |  - | - | - | - | -
+i_us_quad1_innerhalfaperture	| 3                 | cm  | ion upstream   quad   1 innerhalfaperture  | - |  - | - | - | - | -
+i_us_quad1_outerhalfaperture	| 10                | cm  | ion upstream   quad   1 outerhalfaperture  | - |  - | - | - | - | -
+i_us_quad1_strength		|-84.31157975       | T/m | ion upstream   quad   1 strength      | - |  - | - | - | - | -
+i_us_quad1_X			| 0.20991251085     | m   | ion upstream   quad   1 X center      | - |  - | - | - | - | -
+i_us_quad1_Z			|-4.1947510925      | m   | ion upstream   quad   1 Z center      | - |  - | - | - | - | -
+i_us_quad1_Theta		|-0.05              | rad | ion upstream   quad   1 Theta center  | - |  - | - | - | - | -
+i_us_quad2_length		| 1.5               | m   | ion upstream   quad   2 length        | - |  - | - | - | - | -
+i_us_quad2_innerhalfaperture	| 5                 | cm  | ion upstream   quad   2 innerhalfaperture  | - |  - | - | - | - | -
+i_us_quad2_outerhalfaperture	| 12                | cm  | ion upstream   quad   2 outerhalfaperture  | - |  - | - | - | - | -
+i_us_quad2_strength		| 89.39905205       | T/m | ion upstream   quad   2 strength      | - |  - | - | - | - | -
+i_us_quad2_X			| 0.30237397405     | m   | ion upstream   quad   2 X center      | - |  - | - | - | - | -
+i_us_quad2_Z			|-6.0424390745      | m   | ion upstream   quad   2 Z center      | - |  - | - | - | - | -
+i_us_quad2_Theta		|-0.05              | rad | ion upstream   quad   2 Theta center  | - |  - | - | - | - | -
+i_us_quad3_length		| 1                 | m   | ion upstream   quad   3 length        | - |  - | - | - | - | -
+i_us_quad3_innerhalfaperture	| 5                 | cm  | ion upstream   quad   3 innerhalfaperture  | - |  - | - | - | - | -
+i_us_quad3_outerhalfaperture	| 12                | cm  | ion upstream   quad   3 outerhalfaperture  | - |  - | - | - | - | -
+i_us_quad3_strength		|-69.46016771       | T/m | ion upstream   quad   3 strength      | - |  - | - | - | - | -
+i_us_quad3_X			| 0.3848396033      | m   | ion upstream   quad   3 X center      | - |  - | - | - | - | -
+i_us_quad3_Z			|-7.690377004       | m   | ion upstream   quad   3 Z center      | - |  - | - | - | - | -
+i_us_quad3_Theta		|-0.05              | rad | ion upstream   quad   3 Theta center  | - |  - | - | - | - | -
+e_ds_dipole1_length		| 3                 | m   | ele downstream dipole 1 length        | - |  - | - | - | - | -
+e_ds_dipole1_innerhalfaperture	| 4                 | cm  | ele downstream dipole 1 innerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole1_outerhalfaperture	| 11                | cm  | ele downstream dipole 1 outerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole1_strength		| 0.2223704692      | T   | ele downstream dipole 1 strength      | - |  - | - | - | - | -
+e_ds_dipole1_X			|-0.02999800004     | m   | ele downstream dipole 1 X center      | - |  - | - | - | - | -
+e_ds_dipole1_Z			|-14.08273088       | m   | ele downstream dipole 1 Z center      | - |  - | - | - | - | -
+e_ds_dipole1_Theta		| 0.02              | rad | ele downstream dipole 1 Theta center  | - |  - | - | - | - | -
+e_ds_dipole2_length		| 3                 | m   | ele downstream dipole 2 length        | - |  - | - | - | - | -
+e_ds_dipole2_innerhalfaperture	| 4                 | cm  | ele downstream dipole 2 innerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole2_outerhalfaperture	| 11                | cm  | ele downstream dipole 2 outerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole2_strength		|-0.2223704692      | T   | ele downstream dipole 2 strength      | - |  - | - | - | - | -
+e_ds_dipole2_X			|-0.2579492037      | m   | ele downstream dipole 2 X center      | - |  - | - | - | - | -
+e_ds_dipole2_Z			|-21.27877135       | m   | ele downstream dipole 2 Z center      | - |  - | - | - | - | -
+e_ds_dipole2_Theta		| 0.02              | rad | ele downstream dipole 2 Theta center  | - |  - | - | - | - | -
+e_ds_dipole3_length		| 3                 | m   | ele downstream dipole 3 length        | - |  - | - | - | - | -
+e_ds_dipole3_innerhalfaperture	| 4                 | cm  | ele downstream dipole 3 innerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole3_outerhalfaperture	| 11                | cm  | ele downstream dipole 3 outerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole3_strength		|-0.2223704692      | T   | ele downstream dipole 3 strength      | - |  - | - | - | - | -
+e_ds_dipole3_X			|-0.2579492037      | m   | ele downstream dipole 3 X center      | - |  - | - | - | - | -
+e_ds_dipole3_Z			|-26.47817137       | m   | ele downstream dipole 3 Z center      | - |  - | - | - | - | -
+e_ds_dipole3_Theta		|-0.02              | rad | ele downstream dipole 3 Theta center  | - |  - | - | - | - | -
+e_ds_dipole4_length		| 3                 | m   | ele downstream dipole 4 length        | - |  - | - | - | - | -
+e_ds_dipole4_innerhalfaperture	| 4                 | cm  | ele downstream dipole 4 innerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole4_outerhalfaperture	| 11                | cm  | ele downstream dipole 4 outerhalfaperture | - |  - | - | - | - | -
+e_ds_dipole4_strength		| 0.2223704692      | T   | ele downstream dipole 4 strength      | - |  - | - | - | - | -
+e_ds_dipole4_X			|-0.02999800004     | m   | ele downstream dipole 4 X center      | - |  - | - | - | - | -
+e_ds_dipole4_Z			|-33.67421184       | m   | ele downstream dipole 4 Z center      | - |  - | - | - | - | -
+e_ds_dipole4_Theta		|-0.02              | rad | ele downstream dipole 4 Theta center  | - |  - | - | - | - | -
+e_ds_quad1_length		| 0.4               | m   | ele downstream quad   1 length        | - |  - | - | - | - | -
+e_ds_quad1_innerhalfaperture	| 2                 | cm  | ele downstream quad   1 innerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad1_outerhalfaperture	| 6                 | cm  | ele downstream quad   1 outerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad1_strength		| 9.247093736       | T/m | ele downstream quad   1 strength      | - |  - | - | - | - | -
+e_ds_quad1_X			| 0                 | m   | ele downstream quad   1 X center      | - |  - | - | - | - | -
+e_ds_quad1_Z			|-1.8               | m   | ele downstream quad   1 Z center      | - |  - | - | - | - | -
+e_ds_quad1_Theta		| 0.                | rad | ele downstream quad   1 Theta center  | - |  - | - | - | - | -
+e_ds_quad2_length		| 0.7               | m   | ele downstream quad   2 length        | - |  - | - | - | - | -
+e_ds_quad2_innerhalfaperture	| 3                 | cm  | ele downstream quad   2 innerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad2_outerhalfaperture	| 8                 | cm  | ele downstream quad   2 outerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad2_strength		|-27.74503519       | T/m | ele downstream quad   2 strength      | - |  - | - | - | - | -
+e_ds_quad2_X			| 0                 | m   | ele downstream quad   2 X center      | - |  - | - | - | - | -
+e_ds_quad2_Z			|-2.45              | m   | ele downstream quad   2 Z center      | - |  - | - | - | - | -
+e_ds_quad2_Theta		| 0.                | rad | ele downstream quad   2 Theta center  | - |  - | - | - | - | -
+e_ds_quad3_length		| 0.58              | m   | ele downstream quad   3 length        | - |  - | - | - | - | -
+e_ds_quad3_innerhalfaperture	| 5                 | cm  | ele downstream quad   3 innerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad3_outerhalfaperture	| 11                | cm  | ele downstream quad   3 outerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad3_strength		| 23.75625257       | T/m | ele downstream quad   3 strength      | - |  - | - | - | - | -
+e_ds_quad3_X			| 0                 | m   | ele downstream quad   3 X center      | - |  - | - | - | - | -
+e_ds_quad3_Z			|-3.29              | m   | ele downstream quad   3 Z center      | - |  - | - | - | - | -
+e_ds_quad3_Theta		| 0.                | rad | ele downstream quad   3 Theta center  | - |  - | - | - | - | -
+e_ds_quad4_length		| 0.5               | m   | ele downstream quad   4 length        | - |  - | - | - | - | -
+e_ds_quad4_innerhalfaperture	| 5                 | cm  | ele downstream quad   4 innerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad4_outerhalfaperture	| 11                | cm  | ele downstream quad   4 outerhalfaperture  | - |  - | - | - | - | -
+e_ds_quad4_strength		|-1.727365962       | T/m | ele downstream quad   4 strength      | - |  - | - | - | - | -
+e_ds_quad4_X			| 0                 | m   | ele downstream quad   4 X center      | - |  - | - | - | - | -
+e_ds_quad4_Z			|-4.45              | m   | ele downstream quad   4 Z center      | - |  - | - | - | - | -
+e_ds_quad4_Theta		| 0.                | rad | ele downstream quad   4 Theta center  | - |  - | - | - | - | -
+e_us_quad1_length		| 0.7               | m   | ele upstream   quad   1 length        | - |  - | - | - | - | -
+e_us_quad1_innerhalfaperture	| 3                 | cm  | ele upstream   quad   1 innerhalfaperture  | - |  - | - | - | - | -
+e_us_quad1_outerhalfaperture	| 7                 | cm  | ele upstream   quad   1 outerhalfaperture  | - |  - | - | - | - | -
+e_us_quad1_strength		|-21.95278804       | T/m | ele upstream   quad   1 strength      | - |  - | - | - | - | -
+e_us_quad1_X			| 0                 | m   | ele upstream   quad   1 X center      | - |  - | - | - | - | -
+e_us_quad1_Z			| 2.75              | m   | ele upstream   quad   1 Z center      | - |  - | - | - | - | -
+e_us_quad1_Theta		| 0.                | rad | ele upstream   quad   1 Theta center  | - |  - | - | - | - | -
+e_us_quad2_length		| 0.7               | m   | ele upstream   quad   2 length        | - |  - | - | - | - | -
+e_us_quad2_innerhalfaperture	| 5                 | cm  | ele upstream   quad   2 innerhalfaperture  | - |  - | - | - | - | -
+e_us_quad2_outerhalfaperture	| 10                | cm  | ele upstream   quad   2 outerhalfaperture  | - |  - | - | - | - | -
+e_us_quad2_strength		| 22.75536094       | T/m | ele upstream   quad   2 strength      | - |  - | - | - | - | -
+e_us_quad2_X			| 0                 | m   | ele upstream   quad   2 X center      | - |  - | - | - | - | -
+e_us_quad2_Z			| 3.55              | m   | ele upstream   quad   2 Z center      | - |  - | - | - | - | -
+e_us_quad2_Theta		| 0.                | rad | ele upstream   quad   2 Theta center  | - |  - | - | - | - | -
+e_us_quad3_length		| 0.5               | m   | ele upstream   quad   3 length        | - |  - | - | - | - | -
+e_us_quad3_innerhalfaperture	| 5                 | cm  | ele upstream   quad   3 innerhalfaperture  | - |  - | - | - | - | -
+e_us_quad3_outerhalfaperture	| 10                | cm  | ele upstream   quad   3 outerhalfaperture  | - |  - | - | - | - | -
+e_us_quad3_strength		|-8.181086149       | T/m | ele upstream   quad   3 strength      | - |  - | - | - | - | -
+e_us_quad3_X			| 0                 | m   | ele upstream   quad   3 X center      | - |  - | - | - | - | -
+e_us_quad3_Z			| 4.65              | m   | ele upstream   quad   3 Z center      | - |  - | - | - | - | -
+e_us_quad3_Theta		| 0.                | rad | ele upstream   quad   3 Theta center  | - |  - | - | - | - | -

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/eic/!svn/ver/153/eic_gemc/script
+END
+meic_det1_dual_barrel.gcard
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/eic/!svn/ver/140/eic_gemc/script/meic_det1_dual_barrel.gcard
+END
+meic_slice_horizontal.vis
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/eic/!svn/ver/67/eic_gemc/script/meic_slice_horizontal.vis
+END
+meic_slice_solenoid.vis
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/eic/!svn/ver/153/eic_gemc/script/meic_slice_solenoid.vis
+END
+meic_slice_tilt.vis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/eic/!svn/ver/67/eic_gemc/script/meic_slice_tilt.vis
+END
+meic_det1_CLEO.gcard
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/eic/!svn/ver/140/eic_gemc/script/meic_det1_CLEO.gcard
+END
+meic_det1_dual.gcard
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/eic/!svn/ver/153/eic_gemc/script/meic_det1_dual.gcard
+END

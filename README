@@ -1,0 +1,11 @@
+Step 1: check out MEIC code, you will get codes: field/  geometry/  script/  source/ 
+$ svn co https://jlabsvn.jlab.org/svnroot/eic
+$ cd eic
+
+Step 2: 
+The rich_array code is modified based on geometry
+following new scripts for modular RICH array are added
+meic_det1_rich_modular.pl
+meic_det1_rich.pl
+
+

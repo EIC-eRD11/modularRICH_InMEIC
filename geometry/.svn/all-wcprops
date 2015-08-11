@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/eic/!svn/ver/211/eic_gemc/geometry
+END
+meic_det1_virtual_rich.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/eic/!svn/ver/190/eic_gemc/geometry/meic_det1_virtual_rich.pl
+END
+meic_det1_tracking_vertex.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/eic/!svn/ver/28/eic_gemc/geometry/meic_det1_tracking_vertex.pl
+END
+meic_det1_magnet_ele_quadrupole.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/eic/!svn/ver/181/eic_gemc/geometry/meic_det1_magnet_ele_quadrupole.pl
+END
+meic_det1_ec_ionside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/eic/!svn/ver/153/eic_gemc/geometry/meic_det1_ec_ionside.pl
+END
+meic_det1_beamline_ele.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/19/eic_gemc/geometry/meic_det1_beamline_ele.pl
+END
+meic_det1_ele_compton.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/190/eic_gemc/geometry/meic_det1_ele_compton.pl
+END
+meic_det1_dual_barrel__materials_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/eic/!svn/ver/139/eic_gemc/geometry/meic_det1_dual_barrel__materials_Original.txt
+END
+config_meic_det1_dual.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/eic/!svn/ver/100/eic_gemc/geometry/config_meic_det1_dual.dat
+END
+meic_det1_virtual_ec_ionside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eic/!svn/ver/181/eic_gemc/geometry/meic_det1_virtual_ec_ionside.pl
+END
+meic_det1__materials_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/eic/!svn/ver/55/eic_gemc/geometry/meic_det1__materials_Original.txt
+END
+meic_det1_magnet_ion_dipole.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/eic/!svn/ver/207/eic_gemc/geometry/meic_det1_magnet_ion_dipole.pl
+END
+meic_det1_dual_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/211/eic_gemc/geometry/meic_det1_dual_barrel.pl
+END
+meic_det1_tracking_ionside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/eic/!svn/ver/190/eic_gemc/geometry/meic_det1_tracking_ionside.pl
+END
+meic_det1_solenoid_CLEO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/eic/!svn/ver/153/eic_gemc/geometry/meic_det1_solenoid_CLEO.pl
+END
+meic_det1_dual_barrel__geometry_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/eic/!svn/ver/211/eic_gemc/geometry/meic_det1_dual_barrel__geometry_Original.txt
+END
+meic_det1_solenoid_dual.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/eic/!svn/ver/153/eic_gemc/geometry/meic_det1_solenoid_dual.pl
+END
+meic_det1_ec_eleside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_ec_eleside.pl
+END
+meic_det1_cher.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_cher.pl
+END
+meic_det1_dirc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_dirc.pl
+END
+meic_det1_virtual_ec_eleside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eic/!svn/ver/181/eic_gemc/geometry/meic_det1_virtual_ec_eleside.pl
+END
+meic_det1_tracking_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/eic/!svn/ver/194/eic_gemc/geometry/meic_det1_tracking_barrel.pl
+END
+meic_det1__parameters_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/eic/!svn/ver/207/eic_gemc/geometry/meic_det1__parameters_Original.txt
+END
+meic_det1_virtual_ion.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/204/eic_gemc/geometry/meic_det1_virtual_ion.pl
+END
+meic_det1_magnet_ele_dipole.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/eic/!svn/ver/187/eic_gemc/geometry/meic_det1_magnet_ele_dipole.pl
+END
+meic_det1_tracking_eleside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/eic/!svn/ver/190/eic_gemc/geometry/meic_det1_tracking_eleside.pl
+END
+meic_det1_hbd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_hbd.pl
+END
+meic_det1_ele_tagger.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/eic/!svn/ver/197/eic_gemc/geometry/meic_det1_ele_tagger.pl
+END
+config_meic_det1_dual_barrel.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/eic/!svn/ver/139/eic_gemc/geometry/config_meic_det1_dual_barrel.dat
+END
+meic_det1_tof_ionside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/180/eic_gemc/geometry/meic_det1_tof_ionside.pl
+END
+config_meic_det1_CLEO.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/98/eic_gemc/geometry/config_meic_det1_CLEO.dat
+END
+test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/eic/!svn/ver/19/eic_gemc/geometry/test.pl
+END
+meic_det1_solenoid_dual_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/eic/!svn/ver/139/eic_gemc/geometry/meic_det1_solenoid_dual_barrel.pl
+END
+meic_det1_dual_barrel__bank.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/eic/!svn/ver/139/eic_gemc/geometry/meic_det1_dual_barrel__bank.txt
+END
+meic_det1_virtual_ele.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/211/eic_gemc/geometry/meic_det1_virtual_ele.pl
+END
+meic_det1_ec_inner_eleside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_ec_inner_eleside.pl
+END
+meic_det1_ec_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/eic/!svn/ver/155/eic_gemc/geometry/meic_det1_ec_barrel.pl
+END
+meic_det1__bank.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/eic/!svn/ver/85/eic_gemc/geometry/meic_det1__bank.txt
+END
+meic_det1_tof_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/eic/!svn/ver/180/eic_gemc/geometry/meic_det1_tof_barrel.pl
+END
+meic_det1_magnet_ion_quadrupole.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/eic/!svn/ver/181/eic_gemc/geometry/meic_det1_magnet_ion_quadrupole.pl
+END
+meic_det1_beamline_ion.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/19/eic_gemc/geometry/meic_det1_beamline_ion.pl
+END
+meic_det1_CLEO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/eic/!svn/ver/142/eic_gemc/geometry/meic_det1_CLEO.pl
+END
+meic_det1_tof_eleside.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/eic/!svn/ver/180/eic_gemc/geometry/meic_det1_tof_eleside.pl
+END
+meic_det1_CLEO__geometry_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/eic/!svn/ver/143/eic_gemc/geometry/meic_det1_CLEO__geometry_Original.txt
+END
+meic_det1_virtual_ec_barrel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/eic/!svn/ver/181/eic_gemc/geometry/meic_det1_virtual_ec_barrel.pl
+END
+meic_det1_rich.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/eic/!svn/ver/153/eic_gemc/geometry/meic_det1_rich.pl
+END
+meic_det1_dual.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/eic/!svn/ver/189/eic_gemc/geometry/meic_det1_dual.pl
+END
+meic_det1_dual__geometry_Original.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/eic/!svn/ver/207/eic_gemc/geometry/meic_det1_dual__geometry_Original.txt
+END
+test_v.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/eic/!svn/ver/14/eic_gemc/geometry/test_v.pl
+END
